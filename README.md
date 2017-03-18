@@ -17,7 +17,7 @@
 ## 效果图：
 
 
-<img src="changeskin_sc.gif" width="320px"/>
+<img src="skin_sc.gif" width="320px"/>
 
 ## 引入
 
